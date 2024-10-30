@@ -1,0 +1,2 @@
+GT4500,0,0,10,0 #kesz az urhajo
+TORPEDO,SINGLE #lovunk vele 1-et
